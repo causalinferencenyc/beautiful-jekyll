@@ -14,7 +14,7 @@ author: Kara Rudolph
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About us: "aboutus"
   People: "people"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
