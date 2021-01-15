@@ -16,9 +16,6 @@ author: Kara Rudolph
 navbar-links:
   About us: "aboutus"
   People: "people"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://github.com/kararudolph"
 
 # --- Logo --- #
@@ -28,7 +25,7 @@ navbar-links:
 avatar: "/assets/img/logo-mailman.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
