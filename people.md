@@ -31,6 +31,6 @@ I am an Assistant Professor in Biostatistics at the Columbia University Mailman 
 
 ### Ivan Diaz
 
-![Linda Valeri](/assets/img/ivandiaz.jpg)
+![Ivan Diaz](/assets/img/ivandiaz.jpg)
 
 My research focuses on the development of non-parametric statistical methods for causal inference from observational and randomized studies with complex datasets, using machine learning. This includes but is not limited to mediation analysis, methods for continuous exposures, longitudinal data including survival analysis, and efficiency guarantees with covariate adjustment in randomized trials. I am also interested in general semi-parametric theory, machine learning, and high-dimensional data. My substantive research has so far focused on clinical applications, specifically neurology, pulmonary and critical care, and precision medicine for cancer.
