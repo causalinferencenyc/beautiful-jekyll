@@ -8,10 +8,9 @@ subtitle: Below is a list of upcoming talks we will be giving and events we will
 
 ### 1. Placeholder event name - April 1, 2021
 Details of the placeholder event
-
   
 ### 2. Placeholder event name - May 1, 2021
-Details of the placeholder
+Details of the placeholder event
 
 ---
 
