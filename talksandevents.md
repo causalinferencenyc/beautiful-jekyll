@@ -1,3 +1,5 @@
+# Talks and Events
+
 ## Upcoming talks
 
 ### Placeholder event name
