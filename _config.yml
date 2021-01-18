@@ -9,14 +9,14 @@
 title: NYC Causal Inference Group
 
 # Your name to show in the footer
-author: Kara Rudolph
+author: Alex Perlmutter
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About us: "aboutus"
   People: "people"
-  Talks and events: "talks and events"
+  Talks and events: "talksandevents"
 
 # --- Logo --- #
 
