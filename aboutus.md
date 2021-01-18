@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-subtitle: NYC's causal inference working group
+subtitle: The NYC causal inference working group
 ---
 
 ### Our story
