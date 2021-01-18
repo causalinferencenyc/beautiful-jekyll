@@ -50,6 +50,8 @@ My research focuses on the development of non-parametric statistical methods for
 
 I am currently a 5th-year Ph.D. student (graduating May 2020) working with Forrest W. Crawford, in the School of Public Health at Yale University. I am interested in developing statistical tools to solve real-world problems in epidemiology and public health. My current research projects center around evaluating infectious disease outcomes, and use methods covering causal inference, survival analysis, and non-parametric estimation.
 
+---
+
 ## New York University
 
 ### People TBD
