@@ -16,6 +16,8 @@ author: Alex Perlmutter
 navbar-links:
   About us: "aboutus"
   People: "people"
+  Code: "code"
+  White paper: "whitepaper"
   Talks and events: "talksandevents"
 
 # --- Logo --- #
