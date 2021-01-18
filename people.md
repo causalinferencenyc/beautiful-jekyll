@@ -36,6 +36,8 @@ I'm an Assistant Professor of Biostatistics in the Mailman School of Public Heal
 
 I am an Assistant Professor in Biostatistics at the Columbia University Mailman School of Public Health and Adjunct Professor of Epidemiology at the Harvard T.H. Chan School of Public Health. I joined Columbia Mailman School of Public Health in 2018 after 3 years as faculty at the Laboratory of Psychiatric Biostatistics of McLean Hospital and the Department of Psychiatry at Harvard Medical School. My research interests are at the intersection of causal inference, biostatistics, epidemiology, and machine learning. I am fond of collaborating with researchers and practitioners in the biomedical and social sciences and of translating statistical methods in Public Health to improve our understanding of mental health, environmental determinants of health, and health disparities. My research is published in internationally recognized statistics and epidemiology journals and  teaching causal inference to broad audiences is an important mission in my academic activities. I have been invited to teach courses on causal inference and causal mediation analysis by national and international institutions.  I am the recipient of an NIH Career Development Award to develop causal inference methodology for mobile health studies in Psychiatry. I completed a BA and MSc in Economics and Social Sciences (cum laude) at Bocconi University in 2006 and 2008, a PhD in Biostatistics at Harvard University in 2013 (mentor: Tyler VanderWeele) and a postdoctoral fellowship at Harvard T.H. Chan School of Public Health in 2015 (mentors: Brent Coull and Xihong Lin).   
 
+  <p>&nbsp;</p>
+
 ---
 
 ## Weill Cornell Medicine & Cornell Tech
@@ -46,6 +48,8 @@ I am an Assistant Professor in Biostatistics at the Columbia University Mailman 
 
 My research focuses on the development of non-parametric statistical methods for causal inference from observational and randomized studies with complex datasets, using machine learning. This includes but is not limited to mediation analysis, methods for continuous exposures, longitudinal data including survival analysis, and efficiency guarantees with covariate adjustment in randomized trials. I am also interested in general semi-parametric theory, machine learning, and high-dimensional data. My substantive research has so far focused on clinical applications, specifically neurology, pulmonary and critical care, and precision medicine for cancer.
 
+  <p>&nbsp;</p>
+
 ---
 
 ## Yale University
@@ -55,6 +59,8 @@ My research focuses on the development of non-parametric statistical methods for
 [<img src="/assets/img/xiaoxuancai.jpeg" alt="drawing" height="100"/>](https://xiaoxuan-cai.github.io/)
 
 I am currently a 5th-year Ph.D. student (graduating May 2020) working with Forrest W. Crawford, in the School of Public Health at Yale University. I am interested in developing statistical tools to solve real-world problems in epidemiology and public health. My current research projects center around evaluating infectious disease outcomes, and use methods covering causal inference, survival analysis, and non-parametric estimation.
+
+  <p>&nbsp;</p>
 
 ---
 
