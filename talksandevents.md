@@ -9,8 +9,8 @@ subtitle: Below is a list of upcoming talks we will be giving and events we will
 ### Placeholder event name
 #### Talk details
 ##### Date of event (April 1, 2021)
+---
 
-  
 ## Upcoming events
 
 ### Society for Epidemiologic Research Annual Meeting
