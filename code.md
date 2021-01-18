@@ -5,10 +5,8 @@ subtitle: Below is a list of titles linking to scripts for specific methods this
 ---
 
 ## Mediation
-  <p>&nbsp;</p>
 
 1. [Kara's MTO mediation paper script](https://github.com/kararudolph/code-for-papers/blob/master/MTOmediationpaper.R)
-  <p>&nbsp;</p>
   
 2. [Kara's XBOT mediation paper script](https://github.com/kararudolph/code-for-papers/blob/master/XBOTmediation.R)
   <p>&nbsp;</p>
@@ -16,7 +14,6 @@ subtitle: Below is a list of titles linking to scripts for specific methods this
 ## Semiparametric methods
 
 3. [More code examples](https://github.com/kararudolph/code-for-papers/blob/master/XBOTmediation.R)
-  <p>&nbsp;</p>
 
 4. [More code examples](https://github.com/kararudolph/code-for-papers/blob/master/XBOTmediation.R)
   <p>&nbsp;</p>
@@ -24,7 +21,6 @@ subtitle: Below is a list of titles linking to scripts for specific methods this
 ## Bias analyses
 
 5. [More code examples](https://github.com/kararudolph/code-for-papers/blob/master/XBOTmediation.R)
-  <p>&nbsp;</p>
 
 6. [More code examples](https://github.com/kararudolph/code-for-papers/blob/master/XBOTmediation.R)
   <p>&nbsp;</p>
