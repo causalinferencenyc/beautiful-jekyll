@@ -1,3 +1,5 @@
+# People
+
 ## Columbia University
 
 ### [Caleb Miles](https://calebhmiles.github.io/)
