@@ -1,4 +1,8 @@
-# People
+---
+layout: page
+title: People
+subtitle: NYC area-based epidemiology and biostatistics faculty focusing on causal inference methods
+---
 
 ## Columbia University
 
