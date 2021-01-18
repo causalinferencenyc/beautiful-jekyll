@@ -3,7 +3,8 @@ layout: home
 title: NYC Causal Inference Working Group
 subtitle: A group of NYC area-based epidemiology and biostatistics students and faculty promoting quality causal inference research for public health
 ---
-![jhsph image][(/assets/img/jhsph image.png)
+
+[<img src="/assets/img/jhsph image.png" alt="drawing" height="100"/>]
 
   <p>&nbsp;</p>
 
