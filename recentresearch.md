@@ -8,6 +8,7 @@ subtitle: See what members of our group have been working on
 ## Columbia University
 
 __Rudolph K, Diaz I.__ Efficiently transporting causal (in)direct effects to new populations under intermediate confounding and with multiple mediators. 2020
+
 [check out Kara's other work](https://scholar.google.com/citations?user=HgmvKuoAAAAJ&hl=en)
 
   <p>&nbsp;</p>
