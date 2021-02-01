@@ -7,14 +7,14 @@ subtitle: See what members of our group have been working on
 
 ## Columbia University
 
-# Kara Rudolph
+### Kara Rudolph
 
 __Rudolph K.__, Diaz I. Efficiently transporting causal (in)direct effects to new populations under intermediate confounding and with multiple mediators. 2020
 
 [check out Kara's other work](https://scholar.google.com/citations?user=HgmvKuoAAAAJ&hl=en)
   <p>&nbsp;</p>
 
-Caleb Miles
+### Caleb Miles
 
 __Miles, C.H.__, Shpitser, I., Kanki, P., Meloni, S., and Tchetgen Tchetgen, E. J. (2020). On semiparametric estimation of a path-specific effect in the presence of mediator-outcome confounding. Biometrika, 107(1), 159-172.
 
