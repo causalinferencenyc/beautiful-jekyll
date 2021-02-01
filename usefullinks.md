@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Useful links
-subtitle: Other causal inference groups, workshops, and other useful link
+subtitle: Other causal inference groups, workshops, and other useful links can be viewed below
 ---
 
 ## Other causal inference groups
