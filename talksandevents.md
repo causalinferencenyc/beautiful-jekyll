@@ -34,3 +34,17 @@ Kara, Ivan, Caleb, Daniel, and Linda will be attending SER this year in San Dieg
 
 [Code](www.github.com)
   <p>&nbsp;</p>
+
+---
+
+## Past talks
+  <p>&nbsp;</p>
+
+### 1. Society for Epidemiologic Research Annual Meeting - June 22-25, 2021
+Kara, Ivan, Caleb, Daniel, and Linda will be attending SER this year in San Diego and are looking forward to meeting you!
+
+[Working paper](www.nameoftheworkingpaper.com)
+
+[Code](www.github.com)
+  <p>&nbsp;</p>
+
