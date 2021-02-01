@@ -5,6 +5,7 @@ subtitle: Other causal inference groups, workshops, and other useful links can b
 ---
 
 ## Other causal inference groups
+  <p>&nbsp;</p>  
 
 ### [Johns Hopkins University](https://jhsphcausalinference.weebly.com/)
 
@@ -24,7 +25,7 @@ Harvard University's causal inference groups promotes causal inference methods i
 
   <p>&nbsp;</p>
   
-### [University of Pennsylvania Perelman Center for Causal Inference](https://www.cceb.med.upenn.edu/cci)
+### [University of Pennsylvania Center for Causal Inference](https://www.cceb.med.upenn.edu/cci)
 
 Penn's causal inference groups promotes causal inference methods in this and that, etc. 
 
@@ -33,6 +34,7 @@ Penn's causal inference groups promotes causal inference methods in this and tha
 ---
 
 ## Workshops we are attending
+  <p>&nbsp;</p>  
 
 ### [Causal inference workshop in wherever](www.linktoworkshop)
 
