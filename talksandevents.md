@@ -3,6 +3,7 @@ layout: page
 title: Talks and events
 subtitle: Below is a list of upcoming talks we will be giving and events we will be attending
 ---
+  <p>&nbsp;</p>
 
 ## Upcoming talks
   <p>&nbsp;</p>
