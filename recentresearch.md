@@ -11,7 +11,16 @@ subtitle: See what members of our group have been working on
 
 ### Kara Rudolph
 
-__Rudolph K.__, Diaz I. Efficiently transporting causal (in)direct effects to new populations under intermediate confounding and with multiple mediators. 2020
+ 
+__Rudolph K.E.__, Diaz I. (2021). When the ends don’t justify the means: learning a treatment strategy to prevent harmful indirect effects. arXiv:2101.08590
+
+__Rudolph K.E.__, Diaz I., Hejazi N., van der Laan M.J., Luo S., Shulman M., Rotrosen J., Nunes EV. (2020). Explaining differential effects of medication for opioid use disorder using a novel approach incorporating mediating variables. Addiction. In Press.  https://doi.org/10.1111/add.15377
+
+__Rudolph K.E.__, Kinnard E.N., Aguirre A.R., Goin D.E., Feelemyer J., Fink D., Cerda M. (2020). The relative economy and drug overdose deaths. Epidemiology, 31(4), 551-558.
+
+__Rudolph KE__, Diaz I. (2020). Efficiently transporting causal direct and indirect effects to new populations under intermediate confounding and with multiple mediators. Biostatistics. In Press. arXiv:2006.07708.
+
+__Rudolph K.E.__, Sofrygin O., van der Laan M.J. (2020). Complier stochastic direct effects: identification and robust estimation. Journal of the American Statistical Association, https://doi.org/10.1080/01621459.2019.1704292
 
 [check out Kara's other work](https://scholar.google.com/citations?user=HgmvKuoAAAAJ&hl=en)
   <p>&nbsp;</p>
