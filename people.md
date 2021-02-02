@@ -62,4 +62,10 @@ My research focuses on the development of non-parametric statistical methods for
 
 ## New York University
 
-### People TBD
+### [Cyrus Samii](https://cyrussamii.com/)
+
+[<img src="/assets/img/cyrus.jpeg" alt="drawing" height="100"/>](https://cyrussamii.com/)
+
+Cyrus Samii is Associate Professor in the Wilf Family Department of Politics of New York University and Executive Director of the Evidence in Governance and Politics (EGAP) network.
+
+  <p>&nbsp;</p>
