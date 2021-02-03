@@ -27,6 +27,7 @@ __Rudolph K.E.__, Sofrygin O., van der Laan M.J. (2020). Complier stochastic dir
 
 ### Caleb Miles
 
+
 __Miles, C.H.__, Shpitser, I., Kanki, P., Meloni, S., and Tchetgen Tchetgen, E. J. (2020). On semiparametric estimation of a path-specific effect in the presence of mediator-outcome confounding. Biometrika, 107(1), 159-172.
 
 __Miles, C.H.__, Petersen, M., and van der Laan, M.J. (2019). Causal inference when counterfactuals depend on the proportion of all subjects exposed. Biometrics 75(3), 768-777.
@@ -40,7 +41,30 @@ __Miles, C.H.__, Kanki, P., Meloni, S., and Tchetgen Tchetgen, E.J. (2017). On p
 [check out Caleb's other work](https://scholar.google.com/citations?user=qeCLXJYAAAAJ&hl=en)
   <p>&nbsp;</p>
 
-  <p>&nbsp;</p>
+### Linda Valeri
+Devick K.L., Bobb J.F., Mazumdar M., ... & __Valeri L__. (2021). Bayesian kernel machine regression-causal mediation analysis. arXiv preprint arXiv:1811.10453. 
+
+Shi B., Choirat C., Coull, B.A., VanderWeele, T.J., __Valeri L__. (2021). CMAverse an R package for reproducible causal mediation analysis. Epidemiology, in press.
+
+Comment L., Coull B.A., Zigler C., & Valeri L. (2021). Bayesian data fusion for unmeasured confounding.  Biometrics, in press.
+
+Zhu Y., Jackson J., Centorrino F., Fitzmaurice G.M., __Valeri L__. Meta-analysis of the total effect decomposition in the presence of multiple mediators: Integrating evidence across trials for schizophrenia treatment. (2020).  Epidemiology, in press.
+
+Devick K.L., __Valeri L.__, Chen J., Jara A., Bind M.A., & Coull B.A. The Role of Body Mass Index at Diagnosis on Black-White Disparities in Colorectal Cancer Survival: A Density Regression Mediation Approach.  (2020). Biostatistics, in press.
+
+Bellavia A., __Valeri L.__ Decomposition of the Total Effect in the Presence of Multiple Mediators and Interactions. Am J Epidemiol. 2018 06 01; 187(6):1311-1318. 
+
+__Valeri L.__, Reese S.L., Zhao S., Page C.M., Nystad W., Coull B.A., London S.J. Misclassified exposure in epigenetic mediation analyses. Does DNA methylation mediate effects of smoking on birthweight? Epigenomics. 2017 03; 9(3):253-265. 
+
+__Valeri L.__, Coull B.A. Estimating causal contrasts involving intermediate variables in the presence of selection bias. Statistics in Medicine. 2016; 35(26):4779-4793. 
+
+__Valeri L.__, Chen J.T., Garcia-Albeniz X., Krieger N., VanderWeele T.J., Coull B.A. The role of stage at diagnosis in colorectal cancer Black-White survival disparities: A counterfactual causal inference approach. Cancer Epidemiol Biomarkers Prev. 2016; 25(1):83-89. 
+
+__Valeri L.__, VanderWeele T.J. The estimation of direct and indirect causal effects in the presence of misclassified binary mediator. Biostatistics. 2014; 15(3):498-512.  
+__Valeri L.__, VanderWeele T.J. Mediation analysis allowing for exposure-mediator interaction and causal interpretation: Theoretical assumptions and implementation with SAS and SPSS macros. Psychol Methods. 2013; 18(2):137-150.
+
+[check out Linda's other work](https://scholar.google.com/citations?user=4KQw3hYAAAAJ&hl=en)
+ <p>&nbsp;</p>
 
 ---
 
