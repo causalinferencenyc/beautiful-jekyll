@@ -19,7 +19,7 @@ UNC Chapel Hill's causal inference groups promotes causal inference methods in t
 
   <p>&nbsp;</p>
 
-### [Harvard University](https://jhsphcausalinference.weebly.com/)
+### [Harvard University](https://www.hsph.harvard.edu/causal/hiv/coordinating-center/)
 
 Harvard University's causal inference groups promotes causal inference methods in this and that, etc. 
 
