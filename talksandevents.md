@@ -8,32 +8,40 @@ subtitle: Below is a list of upcoming talks we will be giving and events we will
 ## Upcoming talks
   <p>&nbsp;</p>
 
-### Xinran Li, assistant professor, Department of Statistics, University of Illinois at Urbana-Champlain
+### Xinran Li
+#### assistant professor, Department of Statistics, University of Illinois at Urbana-Champlain
 Date: 02/16/2021
 Talk title:
 Abstract:
 
-### Adèle Ribero, post-doctoral fellow, Department of Computer Science, Columbia University
+### Adèle Ribero
+#### post-doctoral fellow, Department of Computer Science, Columbia University
 Date: 03/02/2021
 Talk title: TBD
 Abstract: TBD
 
-### Forrest Crawford, associate professor, Department of Biostatistics, Yale University
+### Forrest Crawford
+#### associate professor, Department of Biostatistics, Yale University
 Date: 03/16/2021
 Talk title: TBD
 Abstract: TBD
 
-### Naoki Egami, assistant professor, Department of Political Sciences, Columbia University
+### Naoki Egami
+#### assistant professor, Department of Political Sciences, Columbia University
 Date: 03/30/2021
 Talk title: TBD
 Abstract: TBD
 
-### Cyrus Samii, associate professor, Department of Politics, New York University
+### Cyrus Samii
+#### associate professor, Department of Politics, New York University
 Date: 04/13/2021
 Talk title: TBD
 Abstract: TBD
 
-### Adina Zeki Al Hazzouri, assistant professor, Department of Epidemiology, Columbia University and Sebastian Calonico, assistant professor, Department of Health Policy and Management
+### Adina Zeki Al Hazzouri
+#### assistant professor, Department of Epidemiology, Columbia University 
+### Sebastian Calonico
+#### assistant professor, Department of Health Policy and Management
 Columbia University
 Date: 04/27/2021
 Talk title: TBD
