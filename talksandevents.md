@@ -13,6 +13,7 @@ subtitle: Below is a list of upcoming talks we will be giving and events we will
 Date: 02/16/2021
 Talk title:
 Abstract:
+  <p>&nbsp;</p>
 
 
 ### Adèle Ribero
@@ -20,6 +21,7 @@ Abstract:
 Date: 03/02/2021
 Talk title: TBD
 Abstract: TBD
+  <p>&nbsp;</p>
 
 
 ### Forrest Crawford
@@ -27,6 +29,7 @@ Abstract: TBD
 Date: 03/16/2021
 Talk title: TBD
 Abstract: TBD
+  <p>&nbsp;</p>
 
 
 ### Naoki Egami
@@ -34,6 +37,7 @@ Abstract: TBD
 Date: 03/30/2021
 Talk title: TBD
 Abstract: TBD
+  <p>&nbsp;</p>
 
 
 ### Cyrus Samii
@@ -41,6 +45,7 @@ Abstract: TBD
 Date: 04/13/2021
 Talk title: TBD
 Abstract: TBD
+  <p>&nbsp;</p>
 
 
 ### Adina Zeki Al Hazzouri
@@ -51,8 +56,8 @@ Columbia University
 Date: 04/27/2021
 Talk title: TBD
 Abstract: TBD
-
   <p>&nbsp;</p>
+  
   
 ### 2. Placeholder event name - May 1, 2021
 Details of the placeholder event
