@@ -14,11 +14,13 @@ Date: 02/16/2021
 Talk title:
 Abstract:
 
+
 ### Adèle Ribero
 #### post-doctoral fellow, Department of Computer Science, Columbia University
 Date: 03/02/2021
 Talk title: TBD
 Abstract: TBD
+
 
 ### Forrest Crawford
 #### associate professor, Department of Biostatistics, Yale University
@@ -26,17 +28,20 @@ Date: 03/16/2021
 Talk title: TBD
 Abstract: TBD
 
+
 ### Naoki Egami
 #### assistant professor, Department of Political Sciences, Columbia University
 Date: 03/30/2021
 Talk title: TBD
 Abstract: TBD
 
+
 ### Cyrus Samii
 #### associate professor, Department of Politics, New York University
 Date: 04/13/2021
 Talk title: TBD
 Abstract: TBD
+
 
 ### Adina Zeki Al Hazzouri
 #### assistant professor, Department of Epidemiology, Columbia University 
