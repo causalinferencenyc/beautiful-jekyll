@@ -18,7 +18,7 @@ __Rudolph K.E.__, Diaz I., Hejazi N., van der Laan M.J., Luo S., Shulman M., Rot
 
 __Rudolph K.E.__, Kinnard E.N., Aguirre A.R., Goin D.E., Feelemyer J., Fink D., Cerda M. (2020). The relative economy and drug overdose deaths. Epidemiology, 31(4), 551-558.
 
-__Rudolph KE__, Diaz I. (2020). Efficiently transporting causal direct and indirect effects to new populations under intermediate confounding and with multiple mediators. Biostatistics. In Press. arXiv:2006.07708.
+__Rudolph KE__, Diaz I. (2020). Efficiently transporting causal direct and indirect effects to new populations under intermediate confounding and with multiple mediators. Biostatistics. In Press. [https://doi.org/10.1093/biostatistics/kxaa057](https://doi.org/10.1093/biostatistics/kxaa057)
 
 __Rudolph K.E.__, Sofrygin O., van der Laan M.J. (2020). Complier stochastic direct effects: identification and robust estimation. Journal of the American Statistical Association, [https://doi.org/10.1080/01621459.2019.1704292](https://doi.org/10.1080/01621459.2019.1704292)
 
